@@ -51,5 +51,5 @@ public class OpenGoogle {
 		extentReports.flush();	
 
 	}
-System.out.println("jenkin run to commit");
+System.out.println("jenkin run to commit status");
 }
